@@ -1,0 +1,16 @@
+PODS:
+  - WGCommonKit (0.1.0)
+
+DEPENDENCIES:
+  - WGCommonKit (from `../`)
+
+EXTERNAL SOURCES:
+  WGCommonKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  WGCommonKit: d8d498afc15098a1aa5980ce1167ebe04b45c6d2
+
+PODFILE CHECKSUM: 87d606f92a316e13f6cc269e6d2e1766842164ac
+
+COCOAPODS: 1.10.1

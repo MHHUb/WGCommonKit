@@ -1,0 +1,6 @@
+framework module WGCommonKit {
+  umbrella header "WGCommonKit-umbrella.h"
+
+  export *
+  module * { export * }
+}
