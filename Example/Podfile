@@ -1,0 +1,6 @@
+use_frameworks!
+target 'WGCommonKit_Tests' do
+  pod 'WGCommonKit', :path => '../'
+  
+  
+end
